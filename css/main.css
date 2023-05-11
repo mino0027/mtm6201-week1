@@ -18,21 +18,37 @@ Your hobbies*/
 
 img {
     max-width: 150px;
+    width: 100%;
     float: left;
+    max-height: 150px;
+    padding: 1rem;
+}
+
+main {
+    background-color: rgb(37, 37, 102);
 }
 
 body {
-    font-size: 1.15rem;
+    color: white;
+    font-size: 1.5em;
+    background-color: blueviolet;
+}
+
+p {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
 }
 
 dl {
     list-style: none;
-    padding-left: 0;
-    display: flex;
+    padding: .5rem;
 }
 
 dt {
     font-weight: bold;
+    font-size: 1.15rem;
 }
 
 dd {
