@@ -15,3 +15,16 @@ Description list with the following information
 Program name you are taking
 Course code and name in which you are completing this assignment
 Your hobbies*/
+
+img {
+    max-width: 150px;
+    float: left;
+}
+
+body {
+    font-size: 1.15rem;
+}
+
+dl {
+    list-style: none;
+}
