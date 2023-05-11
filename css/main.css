@@ -30,8 +30,9 @@ main {
 
 body {
     color: white;
-    font-size: 1.5em;
+    font-size: 1em;
     background-color: blueviolet;
+    font-weight: bolder;
 }
 
 p {
@@ -47,10 +48,11 @@ dl {
 }
 
 dt {
-    font-weight: bold;
     font-size: 1.15rem;
+    font-weight: bolder;
 }
 
 dd {
     margin-left: 0;
+    font-weight: lighter;
 }
