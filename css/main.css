@@ -17,10 +17,10 @@ Course code and name in which you are completing this assignment
 Your hobbies*/
 
 img {
-    max-width: 150px;
     width: 100%;
+    max-width: 150px;
     float: left;
-    max-height: 150px;
+    height: auto;
     padding: 1rem;
 }
 
